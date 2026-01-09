@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malio\\Desktop\\Indian Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|c:\\users\\malio\\desktop\\indian adventure\\assets\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\main charactere\\mort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\main charactere\\mort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\naan\\achatnaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\naan\\achatnaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\main charactere\\iventaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\main charactere\\iventaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\trophy\\trophyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\trophy\\trophyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\coffre\\coffre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\coffre\\coffre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\ennemi\\ennemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\ennemi\\ennemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\main charactere\\playermouvement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\main charactere\\playermouvement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\money\\moneycompteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\money\\moneycompteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\teleporter\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\teleporter\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\lave\\laveanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\lave\\laveanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\lave\\lavekill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\lave\\lavekill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\money\\billet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DDB27-1B0E-AC62-7CB6-197F5204E26A}|Assembly-CSharp.csproj|solutionrelative:assets\\money\\billet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\GameOverMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameOverMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\ThirdPersonCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ThirdPersonCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\trottinettedrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\trottinettedrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malio\\Desktop\\Indian Adventure\\assets\\victorytrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\victorytrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VictoryTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\VictoryTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\VictoryTrigger.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\VictoryTrigger.cs",
+              "RelativeToolTip": "Assets\\VictoryTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:12:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrophyAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\trophy\\TrophyAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\trophy\\TrophyAnimation.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\trophy\\TrophyAnimation.cs",
+              "RelativeToolTip": "Assets\\trophy\\TrophyAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:11:15.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iventaire.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Main Charactere\\Iventaire.cs",
+              "RelativeDocumentMoniker": "Assets\\Main Charactere\\Iventaire.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Main Charactere\\Iventaire.cs",
+              "RelativeToolTip": "Assets\\Main Charactere\\Iventaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:56:24.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AchatNaan.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Naan\\AchatNaan.cs",
+              "RelativeDocumentMoniker": "Assets\\Naan\\AchatNaan.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Naan\\AchatNaan.cs",
+              "RelativeToolTip": "Assets\\Naan\\AchatNaan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:42:21.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ennemi.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Ennemi\\Ennemi.cs",
+              "RelativeDocumentMoniker": "Assets\\Ennemi\\Ennemi.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Ennemi\\Ennemi.cs",
+              "RelativeToolTip": "Assets\\Ennemi\\Ennemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:17:04.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coffre.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\coffre\\Coffre.cs",
+              "RelativeDocumentMoniker": "Assets\\coffre\\Coffre.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\coffre\\Coffre.cs",
+              "RelativeToolTip": "Assets\\coffre\\Coffre.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:46:53.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoneyCompteur.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Money\\MoneyCompteur.cs",
+              "RelativeDocumentMoniker": "Assets\\Money\\MoneyCompteur.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Money\\MoneyCompteur.cs",
+              "RelativeToolTip": "Assets\\Money\\MoneyCompteur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:44:17.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teleporter.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\teleporter\\Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\teleporter\\Teleporter.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\teleporter\\Teleporter.cs",
+              "RelativeToolTip": "Assets\\teleporter\\Teleporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:04:11.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:25:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameStart.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\GameStart.cs",
+              "RelativeDocumentMoniker": "Assets\\GameStart.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\GameStart.cs",
+              "RelativeToolTip": "Assets\\GameStart.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:38:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mort.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Main Charactere\\Mort.cs",
+              "RelativeDocumentMoniker": "Assets\\Main Charactere\\Mort.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Main Charactere\\Mort.cs",
+              "RelativeToolTip": "Assets\\Main Charactere\\Mort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:38:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LaveAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Lave\\LaveAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Lave\\LaveAnimation.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Lave\\LaveAnimation.cs",
+              "RelativeToolTip": "Assets\\Lave\\LaveAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T20:15:28.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LaveKill.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Lave\\LaveKill.cs",
+              "RelativeDocumentMoniker": "Assets\\Lave\\LaveKill.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Lave\\LaveKill.cs",
+              "RelativeToolTip": "Assets\\Lave\\LaveKill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:55:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Billet.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Money\\Billet.cs",
+              "RelativeDocumentMoniker": "Assets\\Money\\Billet.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Money\\Billet.cs",
+              "RelativeToolTip": "Assets\\Money\\Billet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:45:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThirdPersonCamera.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\ThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdPersonCamera.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\ThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\ThirdPersonCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:05:12.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrottinetteDrive.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\TrottinetteDrive.cs",
+              "RelativeDocumentMoniker": "Assets\\TrottinetteDrive.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\TrottinetteDrive.cs",
+              "RelativeToolTip": "Assets\\TrottinetteDrive.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:11:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMouvement.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Main Charactere\\PlayerMouvement.cs",
+              "RelativeDocumentMoniker": "Assets\\Main Charactere\\PlayerMouvement.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\Main Charactere\\PlayerMouvement.cs",
+              "RelativeToolTip": "Assets\\Main Charactere\\PlayerMouvement.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:48:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOverMenu.cs",
+              "DocumentMoniker": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\GameOverMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOverMenu.cs",
+              "ToolTip": "C:\\Users\\malio\\Desktop\\Indian Adventure\\Assets\\GameOverMenu.cs",
+              "RelativeToolTip": "Assets\\GameOverMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:03:19.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
